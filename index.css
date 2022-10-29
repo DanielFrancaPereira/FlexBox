@@ -1,0 +1,45 @@
+body{background-color: white;
+font-family: Arial, Helvetica, sans-serif;}
+
+.main{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;}
+
+.d1 h6 {width:600px;
+    background-color: red;
+    height: 10em;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 50px;
+    flex-wrap: wrap}
+                        
+                                        
+
+.d2 h6 {width:600px;
+        background-color: green;
+        height: 10em;
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        vertical-align: middle;
+        font-size: 50px;}
+
+.d3 h6 {width:600px;
+            background-color: yellow;
+            height: 10em;
+            display: flex;
+            flex-direction: row;
+            text-align: center;
+            vertical-align: middle;
+            font-size: 50px;}
+
+.d4 h6 {width:600px;
+                background-color: blue;
+                height: 10em;
+                display: flex;
+                flex-direction: row;
+                text-align: center;
+                vertical-align: middle;
+                font-size: 50px;}
